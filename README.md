@@ -1,6 +1,7 @@
 # CODTECH-Task-2 
 # BMI Tracker App 
-Name :- Saurabh Naresh Bokde Intern ID :- CT12DPB Domain :- Machine Learning Duration :- 8 weeks
+
+Name :- Himanshu Naresh Bokde Intern ID :- CT12DRK Domain :- Machine Learning Duration :- 8 weeks
 
 Description :- 
 A BMI Tracker App is a mobile or web application designed to help users monitor and manage their Body Mass Index (BMI) over time. BMI is a widely used metric to assess whether an individual’s weight falls within a healthy range based on their height. The app serves as a convenient tool for users to calculate, track, and analyze their BMI, promoting better health awareness and lifestyle management.
